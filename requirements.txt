@@ -1,0 +1,13 @@
+numpy==1.24.3
+torch==2.1.1+cu121
+torcvision==0.16.1
+pyglet==1.5.27
+tqdm==4.66.1
+gym==0.26.2
+gymnasium==0.29.1
+minigrid==2.3.1
+miniworld==2.0.0
+stable_baselines3==2.2.1
+imitation==1.0.0
+faiss==1.7.4
+keyboard==0.13.5
